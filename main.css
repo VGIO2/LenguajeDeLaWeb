@@ -6,7 +6,8 @@ font-family: Arial;
 font-size: 20px;
 }
 
-img{border-color: blue;
+img{
+    border-color: blue;
     border-width: 1px;
     border-style: solid;   
 }
@@ -15,7 +16,8 @@ p{
     color: yellow;
     font-size: 14px;
 }
-
+.ex{color: black;
+}
 h2{
     color: black;
     font-size: 16px;
